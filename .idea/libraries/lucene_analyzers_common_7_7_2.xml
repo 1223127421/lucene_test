@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lucene-analyzers-common-7.7.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/lucene-analyzers-common-7.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene-core-7.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene-queryparser-7.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-5.1.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
